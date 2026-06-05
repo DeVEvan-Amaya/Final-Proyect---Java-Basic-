@@ -1,6 +1,3 @@
-//Programa Final -Introductorio a Java: 
-
-
 import java.util.Scanner;
 import java.util.Random;
 
@@ -35,7 +32,4 @@ void main() {
             System.out.println("El número secreto es MAYOR");
         }
     }
-    // 6. FINAL DEL JUEGO (Fuera del bucle)
-    // ---> AQUÍ: Un último 'if' para revisar si el usuario gastó sus intentos y no adivinó, 
-    // para imprimir "Game Over, el número era: " + numeroSecreto
 }
